@@ -1,2 +1,3 @@
 snowflake-snowspark-python
 streamlit
+requests
